@@ -3228,7 +3228,7 @@ header.sticky.header-bg nav > ul > li {
       }
 
       body {
-        text-align: center;
+        /* text-align: center; */
       }
 
       .swiper-slide .slide-01 {
